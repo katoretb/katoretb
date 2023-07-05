@@ -28,12 +28,12 @@ I'm a hobbyist programmer looking to expand my arsenal of programming language I
 
 ```javascript
 class katoretb{
-	constructor() {
-		this.name = "Sittha Darapisut";
-		this.username = "katoretb";
-		this.location = "Thailand";
-		this.web = "https://katoretb.github.io/";
-	}
+    constructor() {
+        this.name = "Sittha Darapisut";
+        this.username = "katoretb";
+        this.location = "Thailand";
+        this.web = "https://katoretb.github.io/";
+    }
 }
 
 var me = new katoretb();
