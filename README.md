@@ -23,6 +23,21 @@ I'm a hobbyist programmer looking to expand my arsenal of programming language I
         <a href="#">
             <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&labelColor=282828">
         </a>
+	<a href="https://html.com/">
+            <img src="https://img.shields.io/badge/-PHP-7175aa?style=for-the-badge&logo=php&logoColor=7175aa&labelColor=282828">
+        </a>
+	<a href="https://html.com/">
+            <img src="https://img.shields.io/badge/-MySQL-f29d17?style=for-the-badge&logo=mysql&logoColor=f29d17&labelColor=282828">
+        </a>
+	<a href="https://html.com/">
+            <img src="https://img.shields.io/badge/-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=282828">
+        </a>
+	<a href="https://html.com/">
+            <img src="https://img.shields.io/badge/-java-F80000?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=282828">
+        </a>
+	<a href="https://html.com/">
+            <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=282828">
+        </a>
     </div>
 </p>
 
