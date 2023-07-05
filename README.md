@@ -34,10 +34,6 @@ class katoretb{
 		this.location = "Thailand";
 		this.web = "https://katoretb.github.io/";
 	}
-	
-	toString() {
-		return  this.name;
-	}
 }
 
 var me = new katoretb();
