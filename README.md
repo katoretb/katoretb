@@ -2,7 +2,7 @@
 	<b>Sittha Darapisut</b>
 </h1>
 
-Hi! I'm Sittha Darapisut, a student at Chulalongkorn University.
+Hi! I'm Sittha Darapisut, a student at Chulalongkorn University. Also a lone wolf programmer.
 I'm a hobbyist programmer looking to expand my arsenal of programming language I can use.
 
 <br>
